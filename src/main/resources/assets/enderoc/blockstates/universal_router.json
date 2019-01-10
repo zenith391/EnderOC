@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": { 
+        	"model": "enderoc:universal_router"
+        }
+    }
+}
